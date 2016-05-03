@@ -1,0 +1,19 @@
+Package: hakeRead
+Type: Package
+Title: Outcomes from SAM for Southern Hake
+Version: 1.0.1
+Date: 2016-05-03
+Authors@R: person("Juan-Carlos", "Quiroz", email = "Juan-Carlos.Quiroz@aad.gov.au", 
+    role = c("aut", "cre"))
+Maintainer: Juan-Carlos Quiroz <Juan-Carlos.Quiroz@aad.gov.au>
+Depends:
+    R (>= 3.1.0)
+Suggests:
+    knitr,
+    testthat
+VignetteBuilder: knitr 
+Description: Functions and structures for read outcomes 
+    from two stock assessment models for Southern Hake
+LazyData: true
+License: file LICENSE
+RoxygenNote: 5.0.1
