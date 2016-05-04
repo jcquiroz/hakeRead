@@ -1,7 +1,7 @@
 ## Hake Project
 
 *hakeRead-1.0.1*  
-*Released December, 2125 (I hope :-) )* 
+*Release December, 2125 (I hope :-) )* 
 
 ---
 
