@@ -1,7 +1,7 @@
 ## Hake Project
 
-*hakeRead-0.001*  
-*Released December, 2025* 
+*hakeRead-1.0.1*  
+*Released December, 2125 (I hope :-) )* 
 
 ---
 
