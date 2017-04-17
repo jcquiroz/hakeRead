@@ -21,4 +21,3 @@ Create a palette color
 colorea(1,0.5)
 
 }
-

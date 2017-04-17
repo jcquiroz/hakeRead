@@ -26,7 +26,6 @@ argument.
   sums, and \code{\link{colSums}}/\code{\link{rowSums}} marginal sums over 
   high-dimensional arrays.
 
-Other aggregate.functions: \code{\link{read.admb}},
+Other aggregate functions: \code{\link{read.admb}},
   \code{\link{read.psv}}, \code{\link{read.rep}}
 }
-

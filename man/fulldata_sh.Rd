@@ -19,4 +19,3 @@ observations, populations parameters, etc. derived from a stock assessment
 model carried out in Chile during 2014. Juan-Carlos Quiroz.
 }
 \keyword{datasets}
-
